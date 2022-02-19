@@ -1,12 +1,9 @@
-```js
-const matw2a = {
-    Aka : "matw2a",
+- <img src="https://cdn.discordapp.com/emojis/944674575667560560.png" matw2a = 
     age: 16.9 months,
     from: "Egypt",
     Discord: "matw2a#0026",
-    languages: { ["HTML", "CSS", "JavaScript"]
-};
-```
+    languages: "HTML", "CSS", "JavaScript"
+
 
 <h1 align="center">Hey 👋, I'm matw2a</h1>
 <h3 align="center">I'm egyption frontend dev and video editor , English translatorg</h3>
