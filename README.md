@@ -1,3 +1,12 @@
+```js
+const matw2a = {
+    name: "Sayed",
+    age: 17,
+    from: "Egypt",
+    Discord: "matw2a#0026",
+    languages: { ["Python", "HTML", "CSS", "JavaScript"]
+};```
+
 <h1 align="center">Hey 👋, I'm matw2a</h1>
 <h3 align="center">I'm egyption frontend dev and video editor , English translatorg</h3>
 
