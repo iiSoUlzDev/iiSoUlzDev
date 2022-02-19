@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- <p align="left"> <img src="https://cdn.discordapp.com/emojis/944461960160899073.png" alt="SS" height="20" width="20"/> I'm working on **MarCo bot** <p/>
+- <p align="left"> <img src="https://cdn.discordapp.com/emojis/944461960160899073.png" alt="SS" height="20" width="20"/> I'm working on MarCo bot <p/>
 
-- I’m learning **Photoshop** <img align="center" src="https://cdn.discordapp.com/emojis/944449321250717696.png" alt="Ps" height="20" width="20" /> 
+- <p align="left"> <img align="center" src="https://cdn.discordapp.com/emojis/944449321250717696.png" alt="Ps" height="20" width="20" /> I’m learning Photoshop <p/> 
 - <p align="left" > <img src="https://cdn.discordapp.com/emojis/939181111085498459.png" alt="SS" height="20" width="20"/>  Social support <a href="https://discord.gg/SMfgMXyVHg" target="blank">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
