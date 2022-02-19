@@ -1,8 +1,8 @@
-- <img src="https://cdn.discordapp.com/emojis/944674575667560560.png"> matw2a = 
-    age: 16.9 months,
-    from: "Egypt",
-    Discord: "matw2a#0026",
-    languages: "HTML", "CSS", "JavaScript"
+- <img src="https://cdn.discordapp.com/emojis/944674575667560560.png"> Aka matw2a <br> 
+    age: 16.9 months,<br>
+    from: "Egypt", <br>
+    Discord: "matw2a#0026", <br>
+    languages: "HTML", "CSS", "JavaScript" <br.
 
 
 <h1 align="center">Hey 👋, I'm matw2a</h1>
