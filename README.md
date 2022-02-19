@@ -6,7 +6,7 @@
 
 - I'm working on **MarCo bot** 
 
-- I’m currently learning **Photoshop <img align="center" src="https://cdn.discordapp.com/emojis/944449321250717696.png" alt="Ps" height="40" width="40" /> ,c++**
+- I’m currently learning **Photoshop <img align="center" src="https://cdn.discordapp.com/emojis/944449321250717696.png" alt="Ps" height="20" width="20" /> ,c++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
