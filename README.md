@@ -7,7 +7,7 @@
 - I'm working on **MarCo bot** 
 
 - I’m learning **Photoshop <img align="center" src="https://cdn.discordapp.com/emojis/944449321250717696.png" alt="Ps" height="20" width="20" /> 
-<p align="left" Social support> <img src="https://cdn.discordapp.com/emojis/939181111085498459.png" alt="SS" height="20" width="20"/> <a href="https://discord.gg/SMfgMXyVHg" target="blank">
+- <p align="left" > Social support <img src="https://cdn.discordapp.com/emojis/939181111085498459.png" alt="SS" height="20" width="20"/> <a href="https://discord.gg/SMfgMXyVHg" target="blank">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/x2_69x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="x2_69x" height="30" width="40" /></a>
