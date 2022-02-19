@@ -1,10 +1,10 @@
 ```js
 const matw2a = {
-    name: "Sayed",
+    Aka : "matw2a",
     age: 16.9 months,
     from: "Egypt",
     Discord: "matw2a#0026",
-    languages: { ["Python", "HTML", "CSS", "JavaScript"]
+    languages: { ["HTML", "CSS", "JavaScript"]
 };
 ```
 
