@@ -12,7 +12,7 @@ const matw2a = {
 <h3 align="center">I'm egyption frontend dev and video editor , English translatorg</h3>
 
 
-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+ <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - <p align="left"> <img src="https://cdn.discordapp.com/emojis/944461960160899073.png" alt="SS" height="20" width="20"/> I'm working on MarCo bot <p/>
 
