@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- I'm working on **MarCo bot**
+- I'm working on **MarCo bot** 
 
-- I’m currently learning **Photoshop ,c++**
+- I’m currently learning **Photoshop <img src="https://cdn.discordapp.com/emojis/944449321250717696.png"/> ,c++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
