@@ -8,13 +8,6 @@
 <h1 align="center">Hey , I'm SoUlz</h1>
 <h3 align="center">I'm egyption frontend dev and video editor , English translator </h3>
 
-
- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- <p align="left"> <img src="https://cdn.discordapp.com/emojis/944461960160899073.png" alt="SS" height="30" width="30"/> I'm working on MarCo bot <p/>
-
-- <p align="left"> <img align="center" src="https://cdn.discordapp.com/emojis/944449321250717696.png" alt="Ps" height="30" width="30" /> I’m learning Photoshop <p/> 
-- <p align="left" > <a href="https://discord.gg/SMfgMXyVHg" target="_blank">  <img src="https://cdn.discordapp.com/emojis/939181111085498459.png" alt="SS" height="30" width="30"/> Social support <p/>  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/x2_69x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="x2_69x" height="30" width="40" /></a>
@@ -26,4 +19,4 @@
  <a href="https://www.w3schools.com/html/"> <img src="https://is.gd/dJfvXj" width="50px" heigh="50px"> </a>
 <a href="https://www.w3schools.com/css/"> <img src="https://is.gd/VXsOoC" width="50px" heigh="50px"> </a>
 <a href="https://www.w3schools.com/html/"> <img src="https://is.gd/jVB5yR" width="50px" heigh="50px"> </a>
-<a href="https://www.w3schools.com/html/"> <img src="https://is.gd/W4vuXL" width="55px" heigh="55px"> </a>
+<a href="https://www.w3schools.com/html/"> <img src="https://is.gd/cHMTz7" width="55px" heigh="55px"> </a>
