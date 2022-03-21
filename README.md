@@ -2,7 +2,7 @@
     age: 16.9 months,<br>
     from: "Egypt", <br>
     Discord: "iiSoUlz#0026", <br>
-    languages: "HTML", "CSS", "JavaScript" <br>**
+    languages: "HTML", "CSS", "Learning node.js" <br>**
 
 
 <h1 align="center">Hey , I'm SoUlz</h1>
