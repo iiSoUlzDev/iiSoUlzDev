@@ -12,7 +12,7 @@
 <p align="left">
     <a href="https://www.instagram.com/X2_69x/"><img src="https://is.gd/UQdHLn" width="50px" height="50px"></a>
  <a href="https://discord.com/users/779536788058013697"><img src="https://is.gd/6jTTDB" width="50px" height="50px"></a>
-    <a href="https://www.youtube.com/channel/UCaIsSFDe6_RdkI6qh9dzD1w"><img src="https://is.gd/cD6sXn" width=60px" height="50px"></a>
+    <a href="https://www.youtube.com/channel/UCaIsSFDe6_RdkI6qh9dzD1w"><img src="https://is.gd/cD6sXn" width=70px" height="50px"></a>
     <a href=""><img src="" width="50px" height="50px"></a>
 </p>
 
