@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hey , I'm SoUlz</h1>
-<h3 align="center">I'm egyption frontend dev and video editor , English translator </h3>
+<h3 align="center">I'm egyption frontend dev and video editor & English translator </h3>
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
