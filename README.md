@@ -26,4 +26,4 @@
  <a href="https://www.w3schools.com/html/"> <img src="https://is.gd/dJfvXj" width="50px" heigh="50px"> </a>
 <a href="https://www.w3schools.com/css/"> <img src="https://is.gd/VXsOoC" width="50px" heigh="50px"> </a>
 <a href="https://www.w3schools.com/html/"> <img src="https://is.gd/jVB5yR" width="58px" heigh="50px"> </a>
-<a href="https://www.w3schools.com/html/"> <img src="" width="50px" heigh="50px"> </a>
+<a href="https://www.w3schools.com/html/"> <img src="https://is.gd/WMhmtI" width="50px" heigh="50px"> </a>
