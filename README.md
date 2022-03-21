@@ -25,5 +25,5 @@
 <h3 align="left">Skills :</h3>
  <a href="https://www.w3schools.com/html/"> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="50px" heigh="50px"> </a>
 <a href="https://www.w3schools.com/css/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" width="50px" heigh="50px"> </a>
-<a href="https://www.w3schools.com/html/"> <img src="https://mpng.subpng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg" width="50px" heigh="50px"> </a>
+<a href="https://www.w3schools.com/html/"> <img src="https://www.clipartmax.com/png/full/70-701332_hire-node-js-developer-node-logo.png" width="50px" heigh="50px"> </a>
 <a href="https://www.w3schools.com/html/"> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="50px" heigh="50px"> </a>
