@@ -23,4 +23,4 @@
 </p>
 
 <h3 align="left">Skills :</h3>
- <a href="https://www.w3schools.com/html/"> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png"> </a>
+ <a href="https://www.w3schools.com/html/"> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="50px" heigh="50px"> </a>
