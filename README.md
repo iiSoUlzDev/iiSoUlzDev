@@ -25,5 +25,5 @@
 <h3 align="left">Skills :</h3>
  <a href="https://www.w3schools.com/html/"> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="50px" heigh="50px"> </a>
 <a href="https://www.w3schools.com/css/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" width="50px" heigh="50px"> </a>
-<a href="https://www.w3schools.com/html/"> <img src="https://e7.pngegg.com/pngimages/306/37/png-clipart-node-js-logo-node-js-javascript-web-application-express-js-computer-software-others-miscellaneous-text.png" width="50px" heigh="50px"> </a>
+<a href="https://www.w3schools.com/html/"> <img src="https://e7.pngegg.com/pngimages/780/695/png-clipart-javascript-comment-html-logo-international-conference-on-missions-node-js-icon-angle-text.png" width="50px" heigh="50px"> </a>
 <a href="https://www.w3schools.com/html/"> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="50px" heigh="50px"> </a>
