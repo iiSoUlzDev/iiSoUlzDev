@@ -10,7 +10,7 @@
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
-    <a href="https://www.youtube.com/channel/UCaIsSFDe6_RdkI6qh9dzD1w"><img src="https://is.gd/UQdHLn" width="50px" height="50px"></a>
+    <a href="https://instagram.com/x2_69_"><img src="https://is.gd/UQdHLn" width="50px" height="50px"></a>
     <a href=""><img src="" width="50px" height="50px"></a>
     <a href=""><img src="" width="50px" height="50px"></a>
     <a href=""><img src="" width="50px" height="50px"></a>
