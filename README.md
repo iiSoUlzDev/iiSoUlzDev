@@ -18,10 +18,10 @@
 </p>
 
 <h3 align="left">Skills :</h3>
-<a href="https://www.instagram.com/X2_69x/"> <img src="https://is.gd/dJfvXj" width="50px" heigh="50px"> </a>
-<a href="https://www.instagram.com/X2_69x/"> <img src="https://is.gd/VXsOoC" width="50px" heigh="50px"> </a>
-<a href="https://www.instagram.com/X2_69x/"> <img src="https://is.gd/jVB5yR" width="50px" heigh="50px"> </a>
-<a href="https://www.instagram.com/X2_69x/"> <img src="https://is.gd/T5rIf7" width="55px" heigh="55px"> </a>
-<a href="https://www.instagram.com/X2_69x/"> <img src="https://is.gd/W4vuXL" width="55px" heigh="55px"> </a>
-<a href="https://www.instagram.com/X2_69x/"> <img src="https://is.gd/hncUFy" width="55px" heigh="55px"> </a>
+<a href="https://www.w3schools.com/html"> <img src="https://is.gd/dJfvXj" width="50px" heigh="50px"> </a>
+<a href="https://www.w3schools.com/css"> <img src="https://is.gd/VXsOoC" width="50px" heigh="50px"> </a>
+<a href="https://www.w3schools.com/Javascript"> <img src="https://is.gd/jVB5yR" width="50px" heigh="50px"> </a>
+<a href="https://www.w3schools.com/"> <img src="https://is.gd/T5rIf7" width="55px" heigh="55px"> </a>
+<a href="https://www.w3schools.com/"> <img src="https://is.gd/W4vuXL" width="55px" heigh="55px"> </a>
+<a href="https://www.w3schools.com/"> <img src="https://is.gd/hncUFy" width="55px" heigh="55px"> </a>
 
