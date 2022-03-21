@@ -24,6 +24,6 @@
 
 <h3 align="left">Skills :</h3>
  <a href="https://www.w3schools.com/html/"> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="50px" heigh="50px"> </a>
-<a href="https://www.w3schools.com/css/"> <img src="https://mpng.subpng.com/20180425/tze/kisspng-css3-cascading-style-sheets-logo-html-5ae0e587ba2f34.4486001815246882637626.jpg" width="50px" heigh="50px"> </a>
+<a href="https://www.w3schools.com/css/"> <img src="https://e7.pngegg.com/pngimages/239/228/png-clipart-html-css3-cascading-style-sheets-logo-markup-language-digital-agency-miscellaneous-blue-thumbnail.png" width="50px" heigh="50px"> </a>
 <a href="https://www.w3schools.com/html/"> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="50px" heigh="50px"> </a>
 <a href="https://www.w3schools.com/html/"> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="50px" heigh="50px"> </a>
