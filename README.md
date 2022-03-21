@@ -8,11 +8,12 @@
 <h1 align="center">Hey , I'm SoUlz</h1>
 <h3 align="center">I'm egyption frontend dev and video editor , English translator </h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <p align="left">
-<a href="https://instagram.com/x2_69x" target="blank"><img align="center" src="https://is.gd/CW1jpU" alt="x2_69x" height="40" width="40" /></a>
-<a href="https://www.youtube.com/c/Souiz Studio" target="blank"><img align="center" src="https://is.gd/cD6sXn" alt="matw2a studio" height="40" width="40" /></a>
-<a href="https://discord.com/users/779536788058013697" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/SMfgMXyVHg" height="40" width="40" /></a>
+    <a href="https://www.youtube.com/channel/UCaIsSFDe6_RdkI6qh9dzD1w"><img src="https://is.gd/UQdHLn" width="50px" height="50px"></a>
+    <a href=""><img src="" width="50px" height="50px"></a>
+    <a href=""><img src="" width="50px" height="50px"></a>
+    <a href=""><img src="" width="50px" height="50px"></a>
 </p>
 
 <h3 align="left">Skills :</h3>
