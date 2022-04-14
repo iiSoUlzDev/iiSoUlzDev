@@ -10,7 +10,6 @@ For best view change to light mode :)
 <br/>
 
 - I'm currently working on : 
-
  Url shorter
 
 
@@ -19,6 +18,7 @@ For best view change to light mode :)
 - I'm currently learning & imporving :
 
 1- React
+<br/>
 2- node.js
 <br/>
 
