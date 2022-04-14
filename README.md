@@ -1,5 +1,5 @@
-### Welcome to my respiratory :handshake:
- <img src="https://cdn.discordapp.com/attachments/951284496781697124/956346460889292830/Picsart_22-03-24_02-19-11-552.jpg" width="700" >
+## Welcome to my respiratory :handshake:
+ 
  <br/>
   <br/>
 
