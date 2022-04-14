@@ -40,8 +40,7 @@ Hello there, I'm SoUiz frontend developer ,
 
 ####  Spotify status :
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fd00ebq4g3806ufgyc7sv0o5e&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fd00ebq4g3806ufgyc7sv0o5e&cover_image=true&theme=default)](https://github.com/iiSoUlz/spotify-github-profile)
 
 
 
