@@ -1,27 +1,39 @@
-- <img src="https://cdn.discordapp.com/emojis/944674575667560560.png">  **Aka : SoUlz <br> 
-    age: 16.9 months,<br>
-    from: "Egypt", <br>
-    Discord: "iiSoUlz#0026", <br>
-    languages: "HTML", "CSS", "Learning node.js" <br>**
+##### Welcome to my respiratory :handshake:
+ <br/>
+
+ ##### **About me** :
 
 
-<h1 align="center">Hey , I'm SoUlz</h1>
-<h3 align="center">I'm egyption frontend dev and video editor & English translator </h3>
+- ###### Hello there, I'm SoUiz frontend developer , from Egypt I'm 16.10 years old, more than 1 year in frontend development & junior desiger but my general hobby is programing I didn't made any public projects right now but I'm working on some one :arrow_down: 
 
-<h3 align="left">Contact with me:</h3>
-<p align="left">
-    <a href="https://www.instagram.com/X2_69x/"><img src="https://is.gd/UQdHLn" width="50px" height="50px"></a>
-    <a href="https://discord.com/users/779536788058013697"><img src="https://is.gd/6jTTDB" width="50px" height="50px"></a>
-    <a href="https://www.instagram.com/X2_69x/"> <img src="https://is.gd/T5rIf7" width="55px" heigh="55px"> </a>
-    <a href="https://www.youtube.com/channel/UCaIsSFDe6_RdkI6qh9dzD1w"><img src="https://is.gd/cD6sXn" width=70px" height="50px"></a>
-   
-</p>
+<br/>
 
-<h3 align="left">Skills :</h3>
-<a href="https://www.w3schools.com/html"> <img src="https://is.gd/dJfvXj" width="50px" heigh="50px"> </a>
-<a href="https://www.w3schools.com/css"> <img src="https://is.gd/VXsOoC" width="50px" heigh="50px"> </a>
-<a href="https://www.w3schools.com/Javascript"> <img src="https://is.gd/jVB5yR" width="50px" heigh="50px"> </a>
-<a href="https://www.w3schools.com/"> <img src="https://is.gd/T5rIf7" width="55px" heigh="55px"> </a>
-<a href="https://www.w3schools.com/"> <img src="https://is.gd/W4vuXL" width="55px" heigh="55px"> </a>
-<a href="https://www.w3schools.com/"> <img src="https://is.gd/hncUFy" width="55px" heigh="55px"> </a>
+- I'm currently working on :
+ Url shorter
+
+
+<br/>
+
+- I'm currently learning & imporving :
+1- React
+2- node.js
+<br/>
+
+###### Social links :
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/https://github.com/iiSoUlzDev) - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='30'>](https://discord.com/users/779536788058013697)  -  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/X2_69x/) -  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/sir69) 
+
+<br/>
+
+-  Fun fact: You don't have to send me friend request but you can text me with bo friend
+<br/>
+
+   #####  Discord status :
+
+<img src="https://discord.c99.nl/widget/theme-5/779536788058013697.png">
+  
+
+
+
+
+
 
