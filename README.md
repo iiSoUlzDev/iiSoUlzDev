@@ -3,7 +3,7 @@
  <br/>
   <br/>
 
- #### **About me** :
+ ### **About me** :
 Hello there, I'm SoUiz frontend developer ,
  from Egypt I'm 16.10 years old, more than 1 year in frontend development & junior desiger but my general hobby is programing , 
  I didn't made any public projects right now but I'm working on some one :arrow_down: 
@@ -36,7 +36,11 @@ Hello there, I'm SoUiz frontend developer ,
 <img src="https://discord.c99.nl/widget/theme-4/779536788058013697.png">
   
 
+<br/>
 
+####  Spotify status :
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fd00ebq4g3806ufgyc7sv0o5e&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 
 
