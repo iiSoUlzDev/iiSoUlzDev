@@ -29,6 +29,11 @@ For best view change to light mode :)
 -  Fun fact: You don't have to send me friend request but you can text me with bo friend
 <br/>
 
+#### Status :
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/iiSoUlzDev)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/iiSoUlzDev)  
+
    ####  Discord status :
 
 <img src="https://discord.c99.nl/widget/theme-4/779536788058013697.png">
