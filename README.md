@@ -5,7 +5,7 @@ For best view change to light mode :)
  #### **About me** :
 
 
-- ##### Hello there, I'm SoUiz frontend developer ,
+ ##### Hello there, I'm SoUiz frontend developer ,
  from Egypt I'm 16.10 years old, more than 1 year in frontend development & junior desiger but my general hobby is programing 
 I didn't made any public projects right now but I'm working on some one :arrow_down: 
 
