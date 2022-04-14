@@ -9,14 +9,17 @@ For best view change to light mode :)
 
 <br/>
 
-- I'm currently working on :
+- I'm currently working on : 
+<br/>
  Url shorter
 
 
 <br/>
 
 - I'm currently learning & imporving :
+<br/>
 1- React
+<br/>
 2- node.js
 <br/>
 
