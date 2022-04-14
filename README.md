@@ -29,7 +29,7 @@
 
    #####  Discord status :
 
-<img src="https://discord.c99.nl/widget/theme-5/779536788058013697.png">
+<img src="https://discord.c99.nl/widget/theme-4/779536788058013697.png">
   
 
 
