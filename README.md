@@ -27,7 +27,7 @@ Hello there, I'm SoUiz frontend developer ,
 
 <br/>
 
--  Fun fact: You don't have to send me friend request but you can text me with no friend
+-  Fun fact: You have to send me friend request to msg me , Have Fun With That
 <br/>
 
 
