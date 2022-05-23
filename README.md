@@ -3,7 +3,7 @@
  <br/>
   <br/>
 
-<img src="https://cdn.discordapp.com/attachments/972892649277243432/978270631604924426/2.png" width="50%" height="50%" style="border: 1px solid black" />
+<img src="https://cdn.discordapp.com/attachments/972892649277243432/978270631604924426/2.png" width="50%" height="50%" align="middle"/>
 
  ### **About me** :
 Hello there, I'm SoUiz frontend developer ,
