@@ -4,6 +4,7 @@
   <br/>
 
 <img src="https://cdn.discordapp.com/attachments/972892649277243432/978270631604924426/2.png" width="100%" height="400px" style="border-image: 10%;" />
+
  ### **About me** :
 Hello there, I'm SoUiz frontend developer ,
  from Egypt I'm 16.10 years old, more than 1 year in frontend development & junior desiger but my general hobby is programing , 
