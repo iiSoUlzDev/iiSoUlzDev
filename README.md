@@ -24,7 +24,7 @@ Hello there, I'm SoUiz frontend developer ,
 <br/>
 
 ##### Social links :
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='30'>](https://discord.com/users/779536788058013697)  -  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/X2_69x/) -  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30' style="color: white;">](https://twitter.com/sir69) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='30'>](https://discord.com/users/779536788058013697)  -  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/X2_69x/) -  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30' style="color: white;">](https://twitter.com/iiSoUlz_x) 
 
 <br/>
 
